@@ -1,5 +1,3 @@
-import mars
-
-array = [1, 5, 4,6, 6.0]
-
-print(mars.f1(array))
+p = "bhabesh"
+print(len(p))
+print(p[2:6])
